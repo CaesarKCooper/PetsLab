@@ -75,7 +75,7 @@ public class PetsLab {
                                 pets.add(new Dog(typeOfPet, nameOfPet));
                             } else if ("Cat".equalsIgnoreCase(typeOfPet)) {
                                 pets.add(new Cat(typeOfPet, nameOfPet));
-                            } else if ("Pig".equalsIgnoreCase(typeOfPet)) {
+                            } else if ("Frog".equalsIgnoreCase(typeOfPet)) {
                                 pets.add(new Frog(typeOfPet, nameOfPet));
                             }
 
